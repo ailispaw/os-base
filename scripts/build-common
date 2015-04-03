@@ -39,6 +39,8 @@ busybox_install()
     tar xvjf ${ARTIFACTS}/${buildroot}
     cd ${buildroot/.tar.bz2//}
 
+    sed -e 's/utf8/utf-8/' -i support/dependencies/dependencies.sh
+
     cp $conf .config
     if [ -n "$bbconf" ]; then
         cp $bbconf package/busybox/
