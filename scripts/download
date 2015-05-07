@@ -39,4 +39,4 @@ download()
 }
 
 download f7037e6dde3317e20fb607710e2176ebe0b871a6 http://buildroot.uclibc.org/downloads/buildroot-2015.02.tar.bz2
-download 2a1c660f899d686aff6440cfff14fd11621a7d8a https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.19.6.tar.xz
+download 7f3e5e442de29fdadfd030cd672c70567748222d https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.19.7.tar.xz
