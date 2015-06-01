@@ -38,5 +38,5 @@ download()
     fi
 }
 
-download f7037e6dde3317e20fb607710e2176ebe0b871a6 http://buildroot.uclibc.org/downloads/buildroot-2015.02.tar.bz2
-download 2787d62e34a4671230bb807f48a485cbc0351a62 https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.19.8.tar.xz
+download 8efabafe68d21616c7f2ac9fdad8427fc94a015d http://buildroot.uclibc.org/downloads/buildroot-2015.05.tar.bz2
+download 0e3424454b80e11cc0bf0333b2db4656d38e3c7d https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.0.4.tar.xz
