@@ -39,4 +39,4 @@ download()
 }
 
 download 8efabafe68d21616c7f2ac9fdad8427fc94a015d http://buildroot.uclibc.org/downloads/buildroot-2015.05.tar.bz2
-download 4d519a7d746a7d220e7fad63eacb36761c8abc2d https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.0.5.tar.xz
+download ef0baaf741b5f97a2c1a120269837d5f1a8f7955 https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.0.6.tar.xz
