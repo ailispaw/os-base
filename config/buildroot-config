@@ -453,7 +453,7 @@ BR2_PACKAGE_CMAKE_ARCH_SUPPORTS=y
 # gperf needs a toolchain w/ C++
 #
 # BR2_PACKAGE_GREP is not set
-BR2_PACKAGE_JQ=y
+# BR2_PACKAGE_JQ is not set
 # BR2_PACKAGE_LIBTOOL is not set
 # BR2_PACKAGE_MAKE is not set
 # BR2_PACKAGE_PATCH is not set
@@ -1145,7 +1145,7 @@ BR2_PACKAGE_WEBKIT_ARCH_SUPPORTS=y
 # BR2_PACKAGE_EXPAT is not set
 # BR2_PACKAGE_EZXML is not set
 # BR2_PACKAGE_JANSSON is not set
-BR2_PACKAGE_JSON_C=y
+# BR2_PACKAGE_JSON_C is not set
 # BR2_PACKAGE_JSON_GLIB is not set
 
 #
@@ -1188,7 +1188,7 @@ BR2_PACKAGE_JSON_C=y
 # Logging
 #
 # BR2_PACKAGE_LIBLOG4C_LOCALTIME is not set
-BR2_PACKAGE_LIBLOGGING=y
+# BR2_PACKAGE_LIBLOGGING is not set
 
 #
 # log4cplus needs a toolchain w/ C++, wchar, threads
@@ -1494,7 +1494,7 @@ BR2_PACKAGE_LIBNSPR_ARCH_SUPPORT=y
 # BR2_PACKAGE_LIBCLI is not set
 # BR2_PACKAGE_LIBEDIT is not set
 # BR2_PACKAGE_LIBENCA is not set
-BR2_PACKAGE_LIBESTR=y
+# BR2_PACKAGE_LIBESTR is not set
 # BR2_PACKAGE_LIBFRIBIDI is not set
 # BR2_PACKAGE_LIBUNISTRING is not set
 # BR2_PACKAGE_LINENOISE is not set
